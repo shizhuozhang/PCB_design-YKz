@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=D14-1
+Removed Pin From Net: NetName=GND Pin=D15-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U3-1
+Change Component Designator: OldDesignator=D4 NewDesignator=LED4
+Change Component Designator: OldDesignator=W_1 NewDesignator=W1
+Added Component: Designator=LED1(LED_0805)
+Added Component: Designator=LED2(CAP_0603_16*08)
+Added Component: Designator=LED7(LED_0805)
+Added Component: Designator=R45(RES_0805_20*12)
+Added Component: Designator=R46(RES_0805_20*12)
+Added Component: Designator=R47(RES_0603_16*08)
+Added Pin To Net: NetName=AGND Pin=C14-2
+Added Pin To Net: NetName=AGND Pin=C15-1
+Added Pin To Net: NetName=AGND Pin=D14-1
+Added Pin To Net: NetName=AGND Pin=D15-1
+Added Pin To Net: NetName=VCC24 Pin=LED1-1
+Added Pin To Net: NetName=VCC5 Pin=LED2-1
+Added Pin To Net: NetName=VCC3.3 Pin=LED7-1
+Added Pin To Net: NetName=AGND Pin=R45-2
+Added Pin To Net: NetName=AGND Pin=R46-1
+Added Pin To Net: NetName=AGND Pin=R47-2
+Added Pin To Net: NetName=AGND Pin=U2-1
+Added Pin To Net: NetName=AGND Pin=U3-1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetLED4_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R45-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R46-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R47-1
+Added Net: Name=NetLED7_2
+Added Member To Class: ClassName=INF_Processing Member=Component LED1 Green
+Added Member To Class: ClassName=INF_Processing Member=Component LED2 Red
+Added Member To Class: ClassName=INF_Processing Member=Component LED7 Blue
+Added Member To Class: ClassName=INF_Processing Member=Component R45 SMD
+Added Member To Class: ClassName=INF_Processing Member=Component R46 SMD
+Added Member To Class: ClassName=INF_Processing Member=Component R47 SMD

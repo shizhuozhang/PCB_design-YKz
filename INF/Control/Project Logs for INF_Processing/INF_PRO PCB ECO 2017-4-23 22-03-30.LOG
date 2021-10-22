@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC5 Pin=C20-2
+Removed Pin From Net: NetName=VCC5 Pin=C21-2
+Removed Pin From Net: NetName=VCC5 Pin=C22-2
+Removed Pin From Net: NetName=VCC5 Pin=C23-2
+Change Component Footprint: Designator=LED2 Old Footprint=CAP_0603_16*08 New Footprint=LED_0805
+Added Pin To Net: NetName=VCC5 Pin=C20-1
+Added Pin To Net: NetName=AGND Pin=C20-2
+Added Pin To Net: NetName=VCC5 Pin=C21-1
+Added Pin To Net: NetName=AGND Pin=C21-2
+Added Pin To Net: NetName=VCC5 Pin=C22-1
+Added Pin To Net: NetName=AGND Pin=C22-2
+Added Pin To Net: NetName=VCC5 Pin=C23-1
+Added Pin To Net: NetName=AGND Pin=C23-2
+Added Pin To Net: NetName=VCC5 Pin=DAC1-8
+Added Pin To Net: NetName=VCC5 Pin=DAC2-8
+Added Pin To Net: NetName=VCC5 Pin=DAC3-8
+Added Pin To Net: NetName=VCC5 Pin=DAC4-8
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component IC4 74HC165

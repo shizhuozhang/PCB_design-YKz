@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=Ce1-2
+Removed Pin From Net: NetName=GND Pin=Ce2-2
+Removed Pin From Net: NetName=GND Pin=JS5-2
+Removed Pin From Net: NetName=GND Pin=JS24-2
+Change Component Footprint: Designator=D4 Old Footprint=CAP_0603_16*08 New Footprint=LED_0805
+Change Component Footprint: Designator=LED3 Old Footprint=CAP_0603_16*08 New Footprint=LED_0805
+Change Component Footprint: Designator=J20 Old Footprint=HEAD2L-0.8 New Footprint=Header2_press
+Change Component Footprint: Designator=R37 Old Footprint=RES_0402_10*06 New Footprint=RES_0805_20*12
+Change Component Footprint: Designator=R38 Old Footprint=RES_0402_10*06 New Footprint=RES_0805_20*12
+Added Component: Designator=R00(RES_0805_20*12)
+Added Component: Designator=R01(RES_0805_20*12)
+Added Component: Designator=R02(RES_0805_20*12)
+Added Pin To Net: NetName=AGND Pin=C25-2
+Added Pin To Net: NetName=AGND Pin=C26-2
+Added Pin To Net: NetName=AGND Pin=C27-1
+Added Pin To Net: NetName=AGND Pin=C28-2
+Added Pin To Net: NetName=AGND Pin=Ce1-2
+Added Pin To Net: NetName=AGND Pin=Ce2-2
+Added Pin To Net: NetName=AGND Pin=JS5-2
+Added Pin To Net: NetName=AGND Pin=JS24-2
+Added Pin To Net: NetName=AGND Pin=R00-1
+Added Pin To Net: NetName=GND Pin=R00-2
+Added Pin To Net: NetName=AGND Pin=R01-1
+Added Pin To Net: NetName=GND Pin=R01-2
+Added Pin To Net: NetName=AGND Pin=R02-1
+Added Pin To Net: NetName=GND Pin=R02-2
+Added Member To Class: ClassName=INF_Processing Member=Component R00 SMD
+Added Member To Class: ClassName=INF_Processing Member=Component R01 SMD
+Added Member To Class: ClassName=INF_Processing Member=Component R02 SMD

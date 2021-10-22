@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=C14-2
+Removed Pin From Net: NetName=NetC14_1 Pin=C15-1
+Removed Pin From Net: NetName=NetC14_1 Pin=D14-1
+Removed Pin From Net: NetName=NetC14_1 Pin=D15-1
+Change Component Footprint: Designator=F4 Old Footprint=CAP_1206 New Footprint=FUSE3.5*5.5
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D15-1

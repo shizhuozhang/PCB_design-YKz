@@ -1,0 +1,284 @@
+Removed Pin From Net: NetName=VCC24 Pin=C11-1
+Removed Pin From Net: NetName=AGND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=D11-1
+Removed Pin From Net: NetName=GND Pin=D26-1
+Removed Pin From Net: NetName=VDD Pin=F4-2
+Removed Pin From Net: NetName=VCC24 Pin=JS2-1
+Removed Pin From Net: NetName=AGND Pin=JS2-2
+Removed Pin From Net: NetName=VCC24 Pin=LED4-1
+Removed Pin From Net: NetName=GND Pin=LED7-2
+Removed Pin From Net: NetName=VCC5 Pin=P10-1
+Removed Pin From Net: NetName=AGND Pin=P10-2
+Removed Pin From Net: NetName=VCC5 Pin=P10-4
+Removed Pin From Net: NetName=AGND Pin=P10-5
+Removed Pin From Net: NetName=NetIC1_2 Pin=R18-1
+Removed Pin From Net: NetName=LINE8 Pin=R21-1
+Removed Pin From Net: NetName=NetLED2_2 Pin=R70-1
+Removed Pin From Net: NetName=AGND Pin=R70-2
+Removed Pin From Net: NetName=AGND Pin=R71-1
+Removed Pin From Net: NetName=GND Pin=R71-2
+Removed Pin From Net: NetName=AGND Pin=R72-1
+Removed Pin From Net: NetName=GND Pin=R72-2
+Removed Pin From Net: NetName=AGND Pin=R75-1
+Removed Pin From Net: NetName=GND Pin=R75-2
+Removed Pin From Net: NetName=AGND Pin=R77-2
+Removed Pin From Net: NetName=VDD Pin=R89-1
+Removed Pin From Net: NetName=AGND Pin=U5-1
+Removed Pin From Net: NetName=NetC6_2 Pin=U5-2
+Removed Pin From Net: NetName=VCC5 Pin=U5-3
+Removed Pin From Net: NetName=NetC6_2 Pin=U5-4
+Removed Pin From Net: NetName=VCC5 Pin=W1-1
+Removed Pin From Net: NetName=GND Pin=W1-2
+Removed Pin From Net: NetName=VCC5 Pin=W1-3
+Removed Member From Class: ClassName=INF_Pro_Interface Member=C15
+Removed Member From Class: ClassName=INF_Pro_Interface Member=C16
+Removed Member From Class: ClassName=INF_Pro_Interface Member=C17
+Removed Member From Class: ClassName=INF_Pro_Interface Member=C18
+Removed Member From Class: ClassName=INF_Pro_Interface Member=C19
+Removed Member From Class: ClassName=INF_Processing Member=C28
+Removed Member From Class: ClassName=INF_Processing Member=C29
+Removed Member From Class: ClassName=INF_Pro_Interface Member=D11
+Removed Member From Class: ClassName=INF_Pro_Interface Member=D21
+Removed Member From Class: ClassName=INF_Pro_Interface Member=D22
+Removed Member From Class: ClassName=INF_Processing Member=D26
+Removed Member From Class: ClassName=INF_Processing Member=F4
+Removed Member From Class: ClassName=INF_Processing Member=JS2
+Removed Member From Class: ClassName=INF_Pro_Interface Member=LED7
+Removed Member From Class: ClassName=INF_Processing Member=LED7
+Removed Member From Class: ClassName=INF_Pro_Interface Member=P10
+Removed Member From Class: ClassName=INF_Pro_Interface Member=P12
+Removed Member From Class: ClassName=INF_Pro_Interface Member=P14
+Removed Member From Class: ClassName=INF_Pro_Interface Member=P15
+Removed Member From Class: ClassName=INF_Pro_Interface Member=P16
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R18
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R21
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R66
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R67
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R70
+Removed Member From Class: ClassName=INF_Processing Member=R71
+Removed Member From Class: ClassName=INF_Processing Member=R72
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R73
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R74
+Removed Member From Class: ClassName=INF_Processing Member=R75
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R76
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R77
+Removed Member From Class: ClassName=INF_Processing Member=R77
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R80
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R81
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R82
+Removed Member From Class: ClassName=INF_Processing Member=R82
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R83
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R84
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R85
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R86
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R87
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R88
+Removed Member From Class: ClassName=INF_Pro_Interface Member=R89
+Removed Member From Class: ClassName=INF_Processing Member=R89
+Removed Member From Class: ClassName=INF_Pro_Interface Member=U3
+Removed Member From Class: ClassName=INF_Pro_Interface Member=U4
+Removed Member From Class: ClassName=INF_Processing Member=U7
+Removed Member From Class: ClassName=INF_Processing Member=W1
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap New DesignItemId=Cap Pol
+Change Component Footprint: Designator=C10 Old Footprint=CAP_0603_16*08 New Footprint=CAP_1206
+Change Component Comment : Designator=C10 Old Comment=0603 New Comment=Polar
+Change Component Comment : Designator=LED2 Old Comment=Blue New Comment=Green
+Change Component Designator: OldDesignator=C12 NewDesignator=C15
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C15 NewDesignator=C17
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=C17 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C20
+Change Component Designator: OldDesignator=C19 NewDesignator=C23
+Change Component Designator: OldDesignator=C20 NewDesignator=C24
+Change Component Designator: OldDesignator=C21 NewDesignator=C11
+Change Component Designator: OldDesignator=C22 NewDesignator=C12
+Change Component Designator: OldDesignator=C23 NewDesignator=C13
+Change Component Designator: OldDesignator=C26 NewDesignator=C21
+Change Component Designator: OldDesignator=C27 NewDesignator=C22
+Change Component Designator: OldDesignator=D21 NewDesignator=D1
+Change Component Designator: OldDesignator=D22 NewDesignator=D2
+Change Component Designator: OldDesignator=D25 NewDesignator=D3
+Change Component Designator: OldDesignator=D27 NewDesignator=D4
+Change Component Designator: OldDesignator=K2 NewDesignator=K1
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED4
+Change Component Designator: OldDesignator=P12 NewDesignator=P8
+Change Component Designator: OldDesignator=P14 NewDesignator=P10
+Change Component Designator: OldDesignator=P15 NewDesignator=P11
+Change Component Designator: OldDesignator=P16 NewDesignator=P7
+Change Component Designator: OldDesignator=R16 NewDesignator=R1
+Change Component Designator: OldDesignator=R17 NewDesignator=R2
+Change Component Designator: OldDesignator=R34 NewDesignator=R3
+Change Component Designator: OldDesignator=R35 NewDesignator=R4
+Change Component Designator: OldDesignator=R66 NewDesignator=R8
+Change Component Designator: OldDesignator=R67 NewDesignator=R9
+Change Component Designator: OldDesignator=R70 NewDesignator=R22
+Change Component Designator: OldDesignator=R73 NewDesignator=R10
+Change Component Designator: OldDesignator=R74 NewDesignator=R11
+Change Component Designator: OldDesignator=R76 NewDesignator=R13
+Change Component Designator: OldDesignator=R80 NewDesignator=R14
+Change Component Designator: OldDesignator=R81 NewDesignator=R16
+Change Component Designator: OldDesignator=R83 NewDesignator=R15
+Change Component Designator: OldDesignator=R84 NewDesignator=R17
+Change Component Designator: OldDesignator=R85 NewDesignator=R18
+Change Component Designator: OldDesignator=R86 NewDesignator=R19
+Change Component Designator: OldDesignator=R87 NewDesignator=R20
+Change Component Designator: OldDesignator=R88 NewDesignator=R21
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Added Component: Designator=C*1(CAP_0603_16*08)
+Added Component: Designator=IC1(DIP-4)
+Added Component: Designator=J1(H2_push_3.81)
+Added Component: Designator=LED5(LED_0805)
+Added Component: Designator=P1(P5_OUT)
+Added Component: Designator=P2(P8_OUT)
+Added Component: Designator=P3(P8_OUT)
+Added Component: Designator=P4(P8_OUT)
+Added Component: Designator=P5(P8_OUT)
+Added Component: Designator=P6(Header3_HC5.08)
+Added Component: Designator=P9(P12_OUT)
+Added Component: Designator=R5(RES_0805_20*12)
+Added Component: Designator=R6(RES_0805_20*12)
+Added Component: Designator=R7(RES_0805_20*12)
+Added Component: Designator=R12(RES_0805_20*12)
+Added Pin To Net: NetName=VCC24 Pin=C*1-1
+Added Pin To Net: NetName=AGND Pin=C*1-2
+Added Pin To Net: NetName=VDD Pin=D1-2
+Added Pin To Net: NetName=VDD Pin=D2-2
+Added Pin To Net: NetName=VDD Pin=F1-2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=165DATA Pin=IC1-4
+Added Pin To Net: NetName=VCC24 Pin=J1-1
+Added Pin To Net: NetName=AGND Pin=J1-2
+Added Pin To Net: NetName=VCC24 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=AGND Pin=P1-1
+Added Pin To Net: NetName=LINE8 Pin=P2-1
+Added Pin To Net: NetName=LINE7 Pin=P2-2
+Added Pin To Net: NetName=LINE6 Pin=P2-3
+Added Pin To Net: NetName=LINE5 Pin=P2-4
+Added Pin To Net: NetName=LINE4 Pin=P2-5
+Added Pin To Net: NetName=LINE3 Pin=P2-6
+Added Pin To Net: NetName=LINE2 Pin=P2-7
+Added Pin To Net: NetName=LINE1 Pin=P2-8
+Added Pin To Net: NetName=LINE16 Pin=P3-1
+Added Pin To Net: NetName=LINE15 Pin=P3-2
+Added Pin To Net: NetName=LINE14 Pin=P3-3
+Added Pin To Net: NetName=LINE13 Pin=P3-4
+Added Pin To Net: NetName=LINE12 Pin=P3-5
+Added Pin To Net: NetName=LINE11 Pin=P3-6
+Added Pin To Net: NetName=LINE10 Pin=P3-7
+Added Pin To Net: NetName=LINE9 Pin=P3-8
+Added Pin To Net: NetName=LINE24 Pin=P4-1
+Added Pin To Net: NetName=LINE23 Pin=P4-2
+Added Pin To Net: NetName=LINE22 Pin=P4-3
+Added Pin To Net: NetName=LINE21 Pin=P4-4
+Added Pin To Net: NetName=LINE20 Pin=P4-5
+Added Pin To Net: NetName=LINE19 Pin=P4-6
+Added Pin To Net: NetName=LINE18 Pin=P4-7
+Added Pin To Net: NetName=LINE17 Pin=P4-8
+Added Pin To Net: NetName=CH1 Pin=P5-1
+Added Pin To Net: NetName=CH2 Pin=P5-2
+Added Pin To Net: NetName=CH3 Pin=P5-3
+Added Pin To Net: NetName=CH4 Pin=P5-4
+Added Pin To Net: NetName=CH5 Pin=P5-5
+Added Pin To Net: NetName=CH6 Pin=P5-6
+Added Pin To Net: NetName=CH7 Pin=P5-7
+Added Pin To Net: NetName=CH8 Pin=P5-8
+Added Pin To Net: NetName=VCC5 Pin=P6-1
+Added Pin To Net: NetName=VCC24 Pin=P6-3
+Added Pin To Net: NetName=BEEP Pin=P9-1
+Added Pin To Net: NetName=INT2 Pin=P9-2
+Added Pin To Net: NetName=INT1 Pin=P9-3
+Added Pin To Net: NetName=595SDK Pin=P9-4
+Added Pin To Net: NetName=595SCL Pin=P9-5
+Added Pin To Net: NetName=595LOAD Pin=P9-6
+Added Pin To Net: NetName=ADC6 Pin=P9-7
+Added Pin To Net: NetName=ADC5 Pin=P9-8
+Added Pin To Net: NetName=ADC4 Pin=P9-9
+Added Pin To Net: NetName=ADC3 Pin=P9-10
+Added Pin To Net: NetName=ADC2 Pin=P9-11
+Added Pin To Net: NetName=ADC1 Pin=P9-12
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Pin To Net: NetName=AGND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=AGND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=AGND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R12-1
+Added Pin To Net: NetName=VDD Pin=R22-2
+Added Pin To Net: NetName=OSC_OUT Pin=Y2-1
+Added Pin To Net: NetName=OSC_IN Pin=Y2-2
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetD25_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD27_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetR66_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR74_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR76_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR80_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR81_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=OLED_CS New Net Name=PB12
+Change Net Name : Old Net Name=OLED_DC New Net Name=PC7
+Change Net Name : Old Net Name=OLED_RES New Net Name=PC6
+Added Pin To Net: NetName=NetLED5_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R22-1
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U1-1
+Added Pin To Net: NetName=NetP1_2 Pin=U1-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=U1-6
+Added Pin To Net: NetName=NetP1_3 Pin=U1-7
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U2-1
+Added Pin To Net: NetName=NetP1_4 Pin=U2-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=U2-6
+Added Pin To Net: NetName=NetP1_5 Pin=U2-7
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=R12-2
+Added Net: Name=NetP6_2
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component C1 0603
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component C2 0603
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component C3 0603
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component C4 0603
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component C5 0603
+Added Member To Class: ClassName=INF_Processing Member=Component C15 0603
+Added Member To Class: ClassName=INF_Processing Member=Component C*1 0603
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component IC1 PS2801-1
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component IC4 74HC165
+Added Member To Class: ClassName=INF_Processing Member=Component J1 POWER
+Added Member To Class: ClassName=INF_Processing Member=Component LED5 Blue
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component P1 Header 5
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component P2 Header 8
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component P3 Header 8
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component P4 Header 8
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component P5 Header 8
+Added Member To Class: ClassName=INF_Processing Member=Component P6 Header 3
+Added Member To Class: ClassName=INF_Processing Member=Component P9 Header 12
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component R5 SMD
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component R6 SMD
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component R7 SMD
+Added Member To Class: ClassName=INF_Processing Member=Component R12 SMD
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component U1 AD8667ARZ
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component U2 AD8667ARZ
+Added Member To Class: ClassName=INF_Processing Member=Component U3 STM32F103RCT6
+Added Member To Class: ClassName=INF_Processing Member=Component U4 AMS1117
+Added Member To Class: ClassName=INF_Processing Member=Component Y2 XTAL

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=OSC_IN Pin=Y2-1
+Removed Pin From Net: NetName=OSC_OUT Pin=Y2-2
+Change Component Footprint: Designator=C25 Old Footprint=100uF/50V New Footprint=CAP_1206
+Change Component Footprint: Designator=C26 Old Footprint=100uF/50V New Footprint=CAP_1206
+Change Component Footprint: Designator=C13 Old Footprint=220UF/50V New Footprint=CAP_0805_20*12
+Change Component Footprint: Designator=Y2 Old Footprint=¾§Õñ New Footprint=XTAL_US
+Added Component: Designator=J20(HEAD2L-0.8)
+Added Pin To Net: NetName=VCC24 Pin=J20-1
+Added Pin To Net: NetName=NetJ20_2 Pin=J20-2
+Added Pin To Net: NetName=OSC_OUT Pin=Y2-1
+Added Pin To Net: NetName=OSC_IN Pin=Y2-2
+Change Net Name : Old Net Name=LIINE21 New Net Name=LINE21
+Change Net Name : Old Net Name=LIINE22 New Net Name=LINE22
+Change Net Name : Old Net Name=LIINE23 New Net Name=LINE23
+Change Net Name : Old Net Name=LIINE24 New Net Name=LINE24
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component J20 POWER

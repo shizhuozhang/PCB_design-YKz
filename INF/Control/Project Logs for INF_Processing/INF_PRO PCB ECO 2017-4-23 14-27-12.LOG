@@ -1,0 +1,5 @@
+Added Component: Designator=C45(CAP_0603_16*08)
+Added Pin To Net: NetName=AGND Pin=C45-1
+Added Pin To Net: NetName=NetDAC1_6 Pin=C45-2
+Change Net Name : Old Net Name=NetDAC1_6 New Net Name=NetC45_2
+Added Member To Class: ClassName=INF_Pro_Interface Member=Component C45 0603

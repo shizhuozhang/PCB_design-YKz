@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=F1 Old Footprint=FUSE3.5*5.5 New Footprint=RES_0805_20*12
+Change Component Footprint: Designator=R22 Old Footprint=RES_0603_16*08 New Footprint=RES_0805_20*12
+Added Component: Designator=P8(HEADER1*4_PIN)
+Added Pin To Net: NetName=AGND Pin=P6-2
+Added Pin To Net: NetName=PA15 Pin=P8-1
+Added Pin To Net: NetName=PC10 Pin=P8-2
+Added Pin To Net: NetName=PC11 Pin=P8-3
+Added Pin To Net: NetName=PC12 Pin=P8-4
+Added Pin To Net: NetName=AGND Pin=R12-2
+Added Member To Class: ClassName=INF_Processing Member=Component P8 Header 4
